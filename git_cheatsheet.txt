@@ -1,0 +1,49 @@
+Get Branches 
+	Master is the master 
+	Never work in the Master Branch 
+	Always do your work in a new branch 
+	In the separate branches is where you commit. 
+	Once your new feature is complete (What you wanted to add in the new branch) is when you pull/push to Master. 
+	
+Git Commands
+	git init 
+		Turn a directory into a git directory 
+	git clone 
+		Clone a remote repository 
+	git status 
+	git commit -am 'enter message here' 
+	git push origin master 
+	git branch 
+		Shows you the branches for the repository 
+	git branch <branchname> 
+	git checkout <branch_name> 
+	git rm 'file.txt   or git rm '*.txt' 
+		To remove files 
+	git branch -d <branch_name> 
+		Delete a branch 
+		
+Demo 
+	-- Beginning of work session 
+	git checkout master 
+	git pull origin master 
+	 
+	-- check out existing (new) branch that you are working on 
+	git checkout mybranchname (or git checkout -b mynewbranchname) 
+	git merge master 
+	 
+	-- work.  do your stuff. 
+	-- when a small part is done (10-30 minutes) 
+	git commit -am 'this is what I just did' 
+	 
+	-- work some more 
+	-- when a small partls is done (10-30 minutes) 
+	git commit -am 'this is more of what I did' 
+	 
+	-- when done with feature - you have tested and it works 
+	git commit -am 'it now works.  here is what is does.' 
+	git push origin mybranchname 
+	 
+	-- now merge into master and update the cloud repo 
+	git checkout master 
+	git merge mybranchname 
+	git push origin master 
