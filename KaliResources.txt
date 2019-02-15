@@ -1,0 +1,14 @@
+Resources for Learning Kali Linux
+
+CAUTION: Many of these resources will teach you skills that can/will send you to jail if not used wisely. Many (if not all) of these resources will walk you through setting up a lab environment to safely learn these skills. 
+___________________________
+Lynda.com -- Free for BYU Students/Staff (lynda.byu.edu)
+  Lesson titles:
+    Learning Kali Linux
+    Security Testing Essential Training
+    Ethical Hacking Trojans and Backdoors
+  You can search through many other resources on Lynda and even sort by skill level!
+ 
+ 
+    
+    
