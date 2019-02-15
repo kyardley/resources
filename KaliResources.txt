@@ -1,14 +1,18 @@
 Resources for Learning Kali Linux
 
+Kali is a specialized Linux distribution targeted at security professionals. 
+
 CAUTION: Many of these resources will teach you skills that can/will send you to jail if not used wisely. Many (if not all) of these resources will walk you through setting up a lab environment to safely learn these skills. 
-___________________________
+________________________________________________________
 Lynda.com -- Free for BYU Students/Staff (lynda.byu.edu)
-  Lesson titles:
-    Learning Kali Linux
-    Security Testing Essential Training
-    Ethical Hacking Trojans and Backdoors
-  You can search through many other resources on Lynda and even sort by skill level!
+    Lesson titles:
+        Learning Kali Linux
+        Security Testing Essential Training
+        Ethical Hacking Trojans and Backdoors
+    You can search through many other resources on Lynda and even sort by skill level!
  
- 
+Download the free E-book: Kali Linux Revealed
+    https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
     
-    
+Youtube
+    There are many Kali Linux tutorials available on Youtube.
