@@ -1,0 +1,53 @@
+*******AWS Certified Security - Specialty Exam
+*******Study materials
+
+Videos/Online Platforms
+* Pluralsight
+* Cloud Academy
+* A Cloud Guru -- highly recomend
+
+Courses
+* Security Engineering on AWS -- provided through Global Knowledge
+* All AWS Cloud Practitioner Essentials (Second Edition) courses -- AWS Learning Library
+* AWS Security Fundamentals (Second Edition) -- AWS Learning Library
+* Exam Readiness: AWS Certified Security - Specialty -- AWS Learning Library
+
+White Papers
+* Security Pillar AWS Well-Architected Framework
+* AWS Best Practices for DDoS Resiliency
+* AWS Key Management Service Best Practices
+
+Blog Posts
+* https://www.linkedin.com/pulse/passing-aws-certified-security-specialty-exam-madoc-batters/
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LP84VDecPxz05fSGt9P/tookthesecurityspecialtyex
+
+Hands on Experience
+* Highly recommend hands on experience with various tools (I didn't have any work experience in AWS prior to passing. I just spent time playing with the tools.)
+
+Practice Exams
+* A Cloud Guru exam simulator
+* AWS Certified Security - Specialty Practice (SCS-P01)
+
+Additional resources that I personally didn't use
+* https://interactive.linuxacademy.com/diagrams/SecuritySpecialtyRunbook.html
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LOUWLmsqOXtUw1JrHn/atemptedthecertyesterday
+* https://daviseford.com/blog/2018/08/17/aws-security-specialty-exam-tips.html
+* https://www.youtube.com/watch?v=tzJmE_Jlas0&feature=youtu.be
+* https://www.linkedin.com/pulse/how-prepare-aws-certified-security-speciality-kalyan-janaki/
+* https://aws.amazon.com/blogs/security/how-to-use-bucket-policies-and-apply-defense-in-depth-to-help-secure-your-amazon-s3-data/
+* https://s3-us-west-1.amazonaws.com/johnzsecurityspecialityexam/Study_Guide/AWS+Security+Specialty+Notes.pdf
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L4P2Sy49kes8HGFwUnB/i
+* https://github.com/JuiceTheJiraffe/Jacob-Johnson/tree/master/Notes/AWS-Security-Cert-Study-Material
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L6cr21tC78ItoXVZVxZ/moreexamplesusingkeypolici
+* https://linuxacademy.com/blog/amazon-web-services-2/my-experience-with-the-aws-certified-security-specialty-beta-exam/
+* https://pajdzik.com/2018/02/11/my-certified-security-speciality-beta-exam/impressions-after-taking-the-aws-
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LVEfH1XQMc66pQulFq/mytipstosecurity_specialty
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LI36VM0hAevqbXzjiOj/passedexamjuly_2018
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LG38oJ7NIUNo-3U7C6C/Passed%20Security
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LCOZmq0pZN5bxjhpr/passedsecurity-specialtyto
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LCg4TdR6ybtGbXYjJ5V/passedsecuritycert_today
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LNpf8aSMleRnaY0oeXJ/passedtheawssecurityspecia
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LTi0wTOGz0h5WfTw4uq/passedtheexam_yesterady
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LDlnCwCJKg0o2FoKlo/passedthesecurityexam_today
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LP84VDecPxz05fSGt9P/tookthesecurityspecialtyex
+* https://acloud.guru/forums/aws-certified-security-specialty/discussion/-LRWgDUR4gQZYhfvCOq/whatistudiedontopofacgt
